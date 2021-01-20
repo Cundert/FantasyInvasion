@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Grid
+  - Unit
+  - Enemy
+  - Diamond
+  - PlayButton
+  - SettingsButton
+  - CreditsButton
+  - Level1Button
+  - Level2Button
+  - InstructionsButton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - CellCollider
+  - Enemy
+  - Diamond
+  - Unit
+  - Lever
+  - MainMenuButton
+  - NoCollisionWithCharacter
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: MaxPriority
+    uniqueID: 3994907221
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
